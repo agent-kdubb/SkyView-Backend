@@ -83,11 +83,11 @@ public class ProductController {
     }
 
 
-
     /**
      * put endpoint to update a product
      * @param product receives a product Json
      */
+    @AdminOnly
     @ResponseStatus(HttpStatus.NO_CONTENT)
     @PutMapping(consumes = "application/json")
     public void update(@RequestBody ProductRequest product) {
