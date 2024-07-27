@@ -2,7 +2,7 @@
 
 SkyView is an online shop dedicated to selling photos of our beautiful sky. With SkyView, people are able to easily view and purchase photos while making it fun!
 
-[_Click here to view the official SkyView frontend_](https://github.com/Revature-Capstone-1350/e-commerce-frontend)
+[_Click here to view the official SkyView frontend_](https://github.com/agent-kdubb/SkyView-FrontEnd)
 
 [![Java CI Workflow](https://github.com/Revature-Capstone-1350/e-commerce-backend/actions/workflows/workflowAPI.yml/badge.svg)](https://github.com/Revature-Capstone-1350/e-commerce-backend/actions/workflows/workflowAPI.yml)
 # About SkyView
